@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\1.MultipilsOfThreeAndFive.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\1.MultipilsOfThreeAndFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\1.MultipilsOfThreeAndFive.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\1.MultipilsOfThreeAndFive.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\1.MultipilsOfThreeAndFive.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\bin\Debug\net5.0\1.MultipilsOfThreeAndFive.exe
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\bin\Debug\net5.0\1.MultipilsOfThreeAndFive.deps.json
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\bin\Debug\net5.0\1.MultipilsOfThreeAndFive.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\bin\Debug\net5.0\1.MultipilsOfThreeAndFive.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\bin\Debug\net5.0\1.MultipilsOfThreeAndFive.dll
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\bin\Debug\net5.0\ref\1.MultipilsOfThreeAndFive.dll
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\bin\Debug\net5.0\1.MultipilsOfThreeAndFive.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\1.MultipilsOfThreeAndFive.dll
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\ref\1.MultipilsOfThreeAndFive.dll
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\1.MultipilsOfThreeAndFive.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\C# Problem Solving\1.MultipilsOfThreeAndFive\obj\Debug\net5.0\1.MultipilsOfThreeAndFive.genruntimeconfig.cache
